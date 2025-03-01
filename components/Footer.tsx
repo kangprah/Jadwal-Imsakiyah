@@ -77,6 +77,15 @@ export default function Footer() {
               className="w-8 h-8 opacity-70"
             />
           </div>
+          <div className="mt-4">
+            <a href="https://github.com/kangprah/Jadwal-Imsakiyah" target="_blank" rel="noopener noreferrer" className="inline-block hover:opacity-80 transition-opacity">
+              <img 
+                src="https://cdn-icons-png.flaticon.com/512/25/25231.png" 
+                alt="GitHub" 
+                className="w-8 h-8"
+              />
+            </a>
+          </div>
         </div>
       </div>
     </footer>
