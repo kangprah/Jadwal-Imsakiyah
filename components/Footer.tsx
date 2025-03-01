@@ -44,13 +44,16 @@ export default function Footer() {
             <h3 className="text-xl font-tajawal font-bold text-[#5c3d2e] mb-4">Doa Berbuka Puasa</h3>
             <div className="bg-white p-4 rounded-lg shadow-sm border border-[#e0a96d]">
               <p className="text-right mb-2 text-[#5c3d2e] font-tajawal text-lg">
-                اللَّهُمَّ إِنِّي لَكَ صُمْتُ وَبِكَ آمَنْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ
+                اَللّهُمَّ لَكَ صُمْتُ وَبِكَ آمَنْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّحِمِيْنَ
               </p>
               <p className="text-[#5c3d2e] italic">
-                &quot;Allahumma inni laka sumtu wa bika aamantu wa &apos;ala rizqika afthartu&quot;
+                &quot;Allahumma laka shumtu wa bika amantu wa &apos;ala rizqika afthartu. Birrahmatika yaa arhamar roohimin.&quot;
               </p>
               <p className="text-[#5c3d2e] text-sm mt-2">
-                &quot;Ya Allah, untuk-Mu aku berpuasa, kepada-Mu aku beriman, dan dengan rezeki-Mu aku berbuka&quot;
+                &quot;Ya Allah, untuk-Mu aku berpuasa, kepada-Mu aku beriman, dan dengan rezeki-Mu aku berbuka. Dengan rahmat-Mu, wahai Tuhan Yang Maha Pengasih dan Penyayang.&quot;
+              </p>
+              <p className="text-[#5c3d2e] text-xs mt-2 italic">
+                Doa ini berdasarkan hadits yang diriwayatkan oleh HR. Bukhari
               </p>
             </div>
           </div>
