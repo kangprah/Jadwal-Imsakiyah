@@ -32,8 +32,8 @@ Aplikasi ini dibangun menggunakan:
 
 1. Clone repositori ini
    ```bash
-   git clone https://github.com/username/jadwal-imsakiyah.git
-   cd jadwal-imsakiyah
+   git clone https://github.com/kangprah/Jadwal-Imsakiyah.git
+   cd Jadwal-Imsakiyah
    ```
 
 2. Install dependensi
@@ -86,13 +86,13 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) unt
 ## 🙏 Doa Berbuka Puasa
 
 ```
-اللَّهُمَّ إِنِّي لَكَ صُمْتُ وَبِكَ آمَنْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ
+اَللّهُمَّ لَكَ صُمْتُ وَبِكَ آمَنْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّحِمِيْنَ
 ```
 
-"Allahumma inni laka sumtu wa bika aamantu wa 'ala rizqika afthartu"
+"Allahumma laka shumtu wa bika amantu wa 'ala rizqika afthartu. Birrahmatika yaa arhamar roohimin."
 
-"Ya Allah, untuk-Mu aku berpuasa, kepada-Mu aku beriman, dan dengan rezeki-Mu aku berbuka"
+"Ya Allah, untuk-Mu aku berpuasa, kepada-Mu aku beriman, dan dengan rezeki-Mu aku berbuka. Dengan rahmat-Mu, wahai Tuhan Yang Maha Pengasih dan Penyayang."
 
 ---
 
-Dibuat dengan ❤️ untuk umat Muslim Indonesia
+Dibuat dengan ❤️ untuk umat Muslim Indonesia | [GitHub Repository](https://github.com/kangprah/Jadwal-Imsakiyah)
